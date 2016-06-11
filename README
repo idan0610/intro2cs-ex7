@@ -1,0 +1,29 @@
+idan0610
+305681132
+Idan Refaeli
+
+I discussed the exercise with: Eyel Cohen, Amit Tropp.
+
+=============================
+=  README for ex6  =
+=============================
+
+usage: python3.4 ex7.py
+
+==================
+=  Description:  =
+==================
+1. ex7.py - Functions for image processing
+2. README - This file
+
+=============================
+=  List of submitted files: =
+=============================
+
+ex7.py
+README
+
+======================
+=  Special Comments  =
+======================
+The program works only via gui.py
